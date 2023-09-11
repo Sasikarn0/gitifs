@@ -1,0 +1,16 @@
+{
+  "name": "project",
+  "dependencies": {
+    "jsdom": "^21.1.1",
+    "puppeteer": "^19.8.5"
+  },
+  "devDependencies": {
+    "vite": "latest"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
